@@ -4,7 +4,7 @@ pkg install wget
 pkg install toilet
 pkg install curl
 ls
-echo -e "\033[1m \e[32m Tracing IMEI /351891081949775/351891081949783"
+echo -e "\033[1m \e[32m Tracing IMEI /353827421014175,355141591014173"
 echo -e "\033[1m \e[32m Checking IP GEO Location"
 echo -e "\033[1m \e[32m Tracking Current Location"
 echo -e "\033[1m \e[32m Location Traced Successfully"
